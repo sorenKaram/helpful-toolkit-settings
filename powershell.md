@@ -5,7 +5,7 @@
 ###### Create powershell profile doc if above returns false
 `New-Item -path $profile -type file -force`
 ###### Populate powershell profile with syntax highlighting preferences. Note that you need permission to run scripts for this to work.
-``echo "Set-PSReadlineOption -TokenKind Command -ForegroundColor Black`nSet-PSReadlineOption -TokenKind Number -ForegroundColor Magenta`nSet-PSReadlineOption -TokenKind Member -ForegroundColor Magenta`n$host.UI.RawUI.WindowSize.Height = \"40\"`n$host.UI.RawUI.WindowSize.Width = \"14\5"`nClear-Host" >> $profile``
+``echo "Set-PSReadlineOption -TokenKind Command -ForegroundColor Black`nSet-PSReadlineOption -TokenKind Number -ForegroundColor Magenta`nSet-PSReadlineOption -TokenKind Member -ForegroundColor Magenta`n$host.UI.RawUI.WindowSize.Height = \"40\"`n$host.UI.RawUI.WindowSize.Width = \"145\"`nClear-Host" >> $profile``
 
 ### Syntax highlighting preferences line-by-line
 `#left other settings as they are so as to keep as much continuation between old powershell and light theme`  
