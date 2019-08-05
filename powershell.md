@@ -18,7 +18,7 @@
 `$host.UI.RawUI.BackgroundColor = "DarkYellow"`
 
 ### Change powershell message text colors
-`#leave first 4 to defaults
+`#leave first 4 to defaults`
 `#$host.PrivateData.ErrorForegroundColor = "Red"`
 `#$host.PrivateData.ErrorBackgroundColor = "Black"`
 `#$host.PrivateData.WarningForegroundColor = "Yellow"`
