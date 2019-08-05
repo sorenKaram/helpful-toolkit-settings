@@ -14,8 +14,8 @@
 `Set-PSReadlineOption -TokenKind Member -ForegroundColor Magenta`  
 
 ### Change window size line-by-line
-`$host.UI.RawUI.WindowSize.Height = "40"`
-`$host.UI.RawUI.WindowSize.Width = "145"`
+`$host.UI.RawUI.WindowSize.Height = "40"`  
+`$host.UI.RawUI.WindowSize.Width = "145"`  
 
 ### Change window color
 `$host.UI.RawUI.ForegroundColor = "Black"`  
