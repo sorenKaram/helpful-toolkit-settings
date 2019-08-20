@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#e4e4e4",
+        "editor.selectionHighlightBackground": "#e4e4e4"
+    },
+
+    "bracketPairColorizer.colorMode": "Consecutive",
+
+    //consecutive bracket colorizer
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+          "Maroon",
+          "Green",
+          "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+}
+
