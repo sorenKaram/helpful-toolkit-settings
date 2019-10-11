@@ -12,6 +12,7 @@
 `git remote -v`
 ##### Update upstream (otherwise upstream will have little/no data)
 `git fetch upstream`
-
+##### Remove upstream (from local only)
+`git remote rm destination`
 
 
