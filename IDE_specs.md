@@ -3,7 +3,9 @@
 * syntax highlighting
 
 ## Should
-* references for how many times function is being used
+* references for how many times:
+  * function called (warning if 0 uses)
+  * variable used (warning if 0 uses)
 
 ## Could
 
